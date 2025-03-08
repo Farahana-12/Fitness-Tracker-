@@ -1,3 +1,5 @@
+Personal Fitness Tracker using python
+
 The Personal Fitness Tracker is a Python-based application that allows users to track their daily physical activities, monitor their fitness goals, and maintain a log of their progress. This project provides a simple interface for users to input their workouts, steps, calories burned, and other fitness-related data.
 
 Features:
